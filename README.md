@@ -1,7 +1,7 @@
 
 
 
-![logo](https://github.com/mumal885/To-do-list/blob/main/td.png)
+![logo](https://github.com/SumeetPatil7/To-do-list-/blob/main/To-do%20list%20%2B/td.png)
 # To-do-list
 This # To-do-list is coded in html, css,js.
 
